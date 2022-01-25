@@ -1,5 +1,6 @@
 print("Hello World")
 print('Hello, Hyuga')
 print("Hello, Ryodai")
+print("Hello, miyachi")
 print('Reviewers PoC')
-pritn('by GUI')
+print('by GUI')
